@@ -6,7 +6,6 @@ public class Main {
 
         AlumnoDAO dao = new AlumnoDAO();
         //dao.deleteAll();
-        //dao.readInsertXML();
         //dao.readXML();
         dao.insertAlumnos(dao.readXML());
     }
