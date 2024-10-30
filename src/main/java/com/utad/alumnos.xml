@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+    <alumno>
+        <nombre>Juan</nombre>
+        <apellido>Gomez</apellido>
+        <curso>DAMD</curso>
+        <dni>12345678A</dni>
+    </alumno>
+    <alumno>
+        <nombre>Roberta</nombre>
+        <apellido>Casas</apellido>
+        <curso>DAMD</curso>
+        <dni>23456789B</dni>
+    </alumno>
+    <alumno>
+        <nombre>Carlos</nombre>
+        <apellido>Requejo</apellido>
+        <curso>DAMD</curso>
+        <dni>34567890C</dni>
+    </alumno>
+    <alumno>
+        <nombre>Toñy</nombre>
+        <apellido>Delgado</apellido>
+        <curso>DAMD</curso>
+        <dni>45678901D</dni>
+    </alumno>
+    <alumno>
+        <nombre>Jose</nombre>
+        <apellido>Torres</apellido>
+        <curso>DAMD</curso>
+        <dni>56789012E</dni>
+    </alumno>
+    <alumno>
+        <nombre>Marta</nombre>
+        <apellido>Romero</apellido>
+        <curso>DAMD</curso>
+        <dni>67890123F</dni>
+    </alumno>
+</alumnos>
